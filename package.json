@@ -2,7 +2,7 @@
   "name": "mintbean-hackathon-challenge-2020-7-27",
   "description": "This project was generated from the Mintbean react-gh-pages template using the mintbean-cli tool.",
   "version": "0.1.0",
-  "homepage": "https://KmBarnett.github.io/mintbean-hackathon-challenge-2020-7-27/",
+  "homepage": ".",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
