@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "112ac327fc0622583675fc40a0682e07",
+    "revision": "3f0482d554c61b56b6b42d0a2bbfafb4",
     "url": "/mintbean-hackathon-challenge-2020-7-27/index.html"
   },
   {
-    "revision": "0c50a39446f608341632",
+    "revision": "23ea7b0c8eba84d1adc2",
     "url": "/mintbean-hackathon-challenge-2020-7-27/static/css/main.75df9f48.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mintbean-hackathon-challenge-2020-7-27/static/js/2.b0512424.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c50a39446f608341632",
-    "url": "/mintbean-hackathon-challenge-2020-7-27/static/js/main.a7cbbd6d.chunk.js"
+    "revision": "23ea7b0c8eba84d1adc2",
+    "url": "/mintbean-hackathon-challenge-2020-7-27/static/js/main.5d3c1965.chunk.js"
   },
   {
     "revision": "203573a76061e68c77ad",

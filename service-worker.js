@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mintbean-hackathon-challenge-2020-7-27/precache-manifest.084606f0877973eb5ccb2cbdc70f01b5.js"
+  "/mintbean-hackathon-challenge-2020-7-27/precache-manifest.68b1656cd52c0aa85ef64303e2e560c8.js"
 );
 
 self.addEventListener('message', (event) => {
