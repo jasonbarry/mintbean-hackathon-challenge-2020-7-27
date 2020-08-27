@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mintbean-hackathon-challenge-2020-7-27/static/css/main.75df9f48.chunk.css",
-    "main.js": "/mintbean-hackathon-challenge-2020-7-27/static/js/main.5d3c1965.chunk.js",
-    "main.js.map": "/mintbean-hackathon-challenge-2020-7-27/static/js/main.5d3c1965.chunk.js.map",
-    "runtime-main.js": "/mintbean-hackathon-challenge-2020-7-27/static/js/runtime-main.08814ed3.js",
-    "runtime-main.js.map": "/mintbean-hackathon-challenge-2020-7-27/static/js/runtime-main.08814ed3.js.map",
-    "static/js/2.b0512424.chunk.js": "/mintbean-hackathon-challenge-2020-7-27/static/js/2.b0512424.chunk.js",
-    "static/js/2.b0512424.chunk.js.map": "/mintbean-hackathon-challenge-2020-7-27/static/js/2.b0512424.chunk.js.map",
-    "index.html": "/mintbean-hackathon-challenge-2020-7-27/index.html",
-    "precache-manifest.68b1656cd52c0aa85ef64303e2e560c8.js": "/mintbean-hackathon-challenge-2020-7-27/precache-manifest.68b1656cd52c0aa85ef64303e2e560c8.js",
-    "service-worker.js": "/mintbean-hackathon-challenge-2020-7-27/service-worker.js",
-    "static/css/main.75df9f48.chunk.css.map": "/mintbean-hackathon-challenge-2020-7-27/static/css/main.75df9f48.chunk.css.map",
-    "static/js/2.b0512424.chunk.js.LICENSE.txt": "/mintbean-hackathon-challenge-2020-7-27/static/js/2.b0512424.chunk.js.LICENSE.txt",
-    "static/media/mintbean.png": "/mintbean-hackathon-challenge-2020-7-27/static/media/mintbean.cf18b629.png"
+    "main.css": "./static/css/main.75df9f48.chunk.css",
+    "main.js": "./static/js/main.5d3c1965.chunk.js",
+    "main.js.map": "./static/js/main.5d3c1965.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.64ae4533.js",
+    "runtime-main.js.map": "./static/js/runtime-main.64ae4533.js.map",
+    "static/js/2.b0512424.chunk.js": "./static/js/2.b0512424.chunk.js",
+    "static/js/2.b0512424.chunk.js.map": "./static/js/2.b0512424.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d81598780798acef56cc58f496d6e176.js": "./precache-manifest.d81598780798acef56cc58f496d6e176.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "./static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.b0512424.chunk.js.LICENSE.txt": "./static/js/2.b0512424.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "./static/media/mintbean.cf18b629.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.08814ed3.js",
+    "static/js/runtime-main.64ae4533.js",
     "static/js/2.b0512424.chunk.js",
     "static/css/main.75df9f48.chunk.css",
     "static/js/main.5d3c1965.chunk.js"
